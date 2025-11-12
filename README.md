@@ -100,8 +100,10 @@ Build a machine learning model to predict restaurant ratings.
 
 Create a Power BI / Tableau dashboard for interactive visualization.
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-Sarvesh Kumar
+Sarvesh Kumar(202410101360035)
+Hitesh (202410101360036)
+Ravi Rathaur(202410101360038)
 📧 [mauryasarvesh022@gmail.com]
 📍 Data Science & AI Student | Aspiring Data Analyst
